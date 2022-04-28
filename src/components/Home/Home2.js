@@ -19,37 +19,21 @@ function Home2() {
               LAISSEZ MOI ME<span className="purple"> PRESENTER </span> 
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Je m'appelle Bruno, je suis actuellement étudiant du BTS SIO option Solution d'infrastructure systeme et Réseaux.
+
+              <br />
+              <br />
+              C’est tout naturellement que je me suis tourné vers ces études, faisant des études similaires et des recherches par passion personnelle.&nbsp;
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Réseaux et Système </b> mais aussi le domaine de la
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  &nbsp;CyberSécurité
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+
             </p>
           </Col>
           <Col md={4} className="myAvtar">
